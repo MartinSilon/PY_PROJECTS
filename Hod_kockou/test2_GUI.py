@@ -1,5 +1,4 @@
 import tkinter as tk
-# from def_helper import hod_kockou, open_lose_window, load_record, save_record
 import random
 def hod_kockou():
     cube_number = random.randint(1, 6)
